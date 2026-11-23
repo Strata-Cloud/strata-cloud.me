@@ -1,0 +1,8 @@
+:root {
+  --brand-primary: #17304F;
+  --brand-accent: #3FA7D6;
+  --brand-bg: #F5F8FB;
+  --brand-text: #17304F;
+  --font-heading: 'Barlow', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-body: 'Barlow', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
